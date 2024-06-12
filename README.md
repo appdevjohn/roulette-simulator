@@ -11,7 +11,7 @@ exceeds the balance of the player.
 
 ## Sample Output
 
-The sample output reflects a scenario where the min bet is $5, the max bet is $5000, and 
+The sample output reflects scenarios where the min bet is $5, the max bet is $5000, and 
 the player starts with $500.
 ```
 Strategy failed at game #47; $265 left; 16 wins and 31 losses; peaked at $580
